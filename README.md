@@ -1,4 +1,4 @@
-#Ultimate Git Cheat Sheet, Author : SYED HASSAN UL HAQ 
+# Ultimate Git Cheat Sheet,Author: SYED HASSAN UL HAQ 
 ===========================================================
 
 Remember :
